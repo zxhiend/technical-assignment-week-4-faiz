@@ -1,2 +1,1 @@
-# Git-Github-Technical-Assignment
-Repository for technical assignment.
+# Repository for technical assignment.
