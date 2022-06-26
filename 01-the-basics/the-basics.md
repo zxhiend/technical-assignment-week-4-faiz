@@ -32,3 +32,10 @@
 14. Check out your commits using `git log`. **git log**
 
 ![Screenshot 2022-06-26 195233](https://user-images.githubusercontent.com/67363618/175815091-c5e8a550-a2a9-4f41-a766-0fffb08e87b2.jpg)
+
+
+
+
+
+
+>[to question](https://github.com/impactbyte/full-stack-web-assignments/blob/master/04-Git-and-Github/01-the-basics/README.md)
