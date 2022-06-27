@@ -5,7 +5,7 @@
 
 2. `cd` into the `git-basic` folder. **cd .\git-basic\\**
 
-3. Create a file called `first.txt`. **ni first.txt**
+3. Create a file called `first.txt`. **touch first.txt**
 
 4. Initialize an empty git repository. **git init**
 
@@ -17,7 +17,7 @@
 
 ![Screenshot 2022-06-26 194054](https://user-images.githubusercontent.com/67363618/175814680-c8e70909-5031-49a6-bf4f-b19f5d2664b9.jpg)
 
-8. Create another file called `second.txt`. **ni second.txt**
+8. Create another file called `second.txt`. **touch second.txt**
 
 9. Add `second.txt` to the staging area. **git add .\second.txt**
 
