@@ -1,3 +1,7 @@
+## [Answers of 02-portfolio-and-cv](https://github.com/impactbyte/full-stack-web-assignments/blob/master/04-Git-and-Github/02-portfolio-and-cv/README.md)
+>by zxhiend/faiz
+<br>
+
 1. membuat sebuah folder kosong dengan **namamu sendiri**.
     ```bash
     mkdir faiz
